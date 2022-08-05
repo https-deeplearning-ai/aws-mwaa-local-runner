@@ -35,3 +35,5 @@ WTF_CSRF_ENABLED = False
 
 # The authentication type
 AUTH_TYPE = AUTH_DB
+
+AUTH_ROLE_PUBLIC = "Admin"
